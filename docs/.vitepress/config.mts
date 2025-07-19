@@ -8,8 +8,9 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "プロダクト", link: "/products/index" }
-    ],
+      { text: "プロダクト", link: "/products/index" },
+      { text: "メモ", link: "/memo/index" },
+],
 
     sidebar: [
       {
