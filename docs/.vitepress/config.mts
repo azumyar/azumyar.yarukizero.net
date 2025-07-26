@@ -10,7 +10,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "プロダクト", link: "/products/index" },
       { text: "メモ", link: "/memo/index" },
-],
+    ],
 
     sidebar: [
       {
@@ -32,6 +32,9 @@ export default defineConfig({
 
     socialLinks: [
       { icon: "github", link: "https://github.com/azumyar/azumyar.yarukizero.net" }
-    ]
+    ],
+    footer: {
+      copyright: "Copyright @ 2025-azumyar"
+    },
   }
 })

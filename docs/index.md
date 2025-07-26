@@ -4,7 +4,8 @@ layout: home
 
 hero:
   name: "yarukizero"
-  text: "気づけばボイロのプロダクトがたくさん"
+  text: ""
+  tagline: "気づけばボイロのプロダクトがたくさん"
 #  tagline: My great project tagline
 #  actions:
 #    - theme: brand
