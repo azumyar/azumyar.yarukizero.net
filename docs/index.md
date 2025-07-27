@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "yarukizero"
+  name: "ことことボックス"
   text: ""
   tagline: "気づけばボイロのプロダクトがたくさん"
 #  tagline: My great project tagline

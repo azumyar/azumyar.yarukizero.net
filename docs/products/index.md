@@ -11,7 +11,7 @@ VOICEVOXのAPIをSAPIに公開します。棒読みちゃんとかと連携で�
 レジストリがわかってる人向けに作ったので導入は不親切。
 
 ## sapi-ceviocs-kana
-https://github.com/azumyar/sapi-ceviocs-kana
+https://github.com/azumyar/sapi-ceviocs-kana  
 CeVIO CSのAPIをSAPIに公開します。元々CeVIOはSAPI連携がありますが、各種パラメータが指定できないのでその辺も対応してます。CeVIOが苦手なアルファベット→カタカナ変換も行います。  
 自分が使えればいいやくらいの感じで作ったのでやっぱり導入は不親切。
 

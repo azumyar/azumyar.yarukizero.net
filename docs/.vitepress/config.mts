@@ -2,12 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "やるきぜろ",
+  title: "ことことボックス",
   description: "",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "Home", link: "/" },
+      { text: "ホーム", link: "/" },
       { text: "プロダクト", link: "/products/index" },
       { text: "メモ", link: "/memo/index" },
     ],
